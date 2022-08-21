@@ -1,0 +1,11 @@
+----------
+A função sep='' faz a separação no print de acordo com o que é colocado dentro das aspas.
+----------
+A função end='' insere algo no final do print de acordo com o que é colocado dentro das aspas.
+----------
+Para executar um print com alguma caracter que execute um comando, sem que esse comando seja executado, devesse colocar r antes das apás.
+
+Exm:
+
+print(r'Esse é meu \n texto')
+----------
