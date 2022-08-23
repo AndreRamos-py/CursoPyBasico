@@ -9,3 +9,13 @@ Exm:
 
 print(r'Esse é meu \n texto')
 ----------
+1 - ( n + n )  Os parênteses têm a maior precedência, contas dentro deles são realizadas primeiro
+
+2 - **  Depois vem a exponenciação
+
+3 - * / //  %  Na sequência multiplicação, divisão, divisão inteira e módulo
+
+4 - +  -  Por fim, soma e subtração
+
+Contas com operadores de mesma precedência são realizadas da esquerda para a direita.
+----------
