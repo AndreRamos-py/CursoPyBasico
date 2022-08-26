@@ -1,14 +1,19 @@
-----------
+------------------------------
 A função sep='' faz a separação no print de acordo com o que é colocado dentro das aspas.
-----------
+------------------------------
+------------------------------
 A função end='' insere algo no final do print de acordo com o que é colocado dentro das aspas.
-----------
-Para executar um print com alguma caracter que execute um comando, sem que esse comando seja executado, devesse colocar r antes das apás.
+------------------------------
+------------------------------
+
+Para executar um print com alguma caracter que execute um comando, sem que esse comando seja executado, deve-se
+colocar r antes das apás.
 
 Exm:
 
 print(r'Esse é meu \n texto')
-----------
+------------------------------
+------------------------------
 1 - ( n + n )  Os parênteses têm a maior precedência, contas dentro deles são realizadas primeiro
 
 2 - **  Depois vem a exponenciação
@@ -18,4 +23,15 @@ print(r'Esse é meu \n texto')
 4 - +  -  Por fim, soma e subtração
 
 Contas com operadores de mesma precedência são realizadas da esquerda para a direita.
-----------
+------------------------------
+------------------------------
+Uma das formas de inserir as variaveis no print, é a formatação de string em f.
+
+Exemplo:
+
+nome = Fulano
+idade = 14
+
+print(f'{nome} tem {idade} anos de idade')
+------------------------------
+------------------------------
