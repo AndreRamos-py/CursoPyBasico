@@ -35,3 +35,27 @@ idade = 14
 print(f'{nome} tem {idade} anos de idade')
 ------------------------------
 ------------------------------
+Em programação, os termos "fazer cast" ou "type cast" referem-se à conversão de um tipo de valor em outro tipo de valor.
+------------------------------
+------------------------------
+Operadores de Funções:
+
+==	Igual a	Verifica se um valor é igual ao outro
+!=	Diferente de	Verifica se um valor é diferente ao outro
+>	Maior que	Verifica se um valor é maior que outro
+>=	Maior ou igual	Verifica se um valor é maior ou igual ao outro
+<	Menor que	Verifica se um valor é menor que outro
+<=	Menor ou igual	Verifica se um valor é menor ou igual ao outro
+
+Operadores de Definição:
+
+and	Retorna True se ambas as afirmações forem verdadeiras
+or	Retorna True se uma das afirmações for verdadeira
+not	retorna Falso se o resultado for verdadeiro
+
+Operadores de Associação:
+
+in	Retorna True caso o valor seja encontrado na sequência
+not in	Retorna True caso o valor não seja encontrado na sequência
+------------------------------
+------------------------------
