@@ -35,7 +35,8 @@ idade = 14
 print(f'{nome} tem {idade} anos de idade')
 ------------------------------
 ------------------------------
-Em programação, os termos "fazer cast" ou "type cast" referem-se à conversão de um tipo de valor em outro tipo de valor.
+Em programação, os termos "fazer cast" ou "type cast" referem-se à
+conversão de um tipo de valor em outro tipo de valor.
 ------------------------------
 ------------------------------
 Operadores de Funções:
@@ -57,5 +58,10 @@ Operadores de Associação:
 
 in	Retorna True caso o valor seja encontrado na sequência
 not in	Retorna True caso o valor não seja encontrado na sequência
+------------------------------
+------------------------------
+A função pass pode ser usada para ao chegar em determinado ponto do código ele não executar nada,
+pois irá ser colocado algum cód no local, porém, ainda não foi colocado.
+Uma forma de ter o mesmo resultado do pass é com ellipsis, desta maneira: ...
 ------------------------------
 ------------------------------
