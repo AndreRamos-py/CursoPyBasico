@@ -65,3 +65,55 @@ pois irá ser colocado algum cód no local, porém, ainda não foi colocado.
 Uma forma de ter o mesmo resultado do pass é com ellipsis, desta maneira: ...
 ------------------------------
 ------------------------------
+A formatação de string do Python permite que possamos inserir caracteres no print.
+
+(CARACTERE) ( > ou < ou ^) (QUANTIDADE) (TIPO - s, d, ou f)
+
+Exemplo:
+
+nome = 'André'
+
+print(f'{nome:#^11'}
+
+Resultado:
+###André###
+------------------------------
+------------------------------
+É possível fazer fatiamento no print para buscar indices.
+
+Exemplo:
+
+texto = Python love
+
+print( texto[2])
+
+Resultado:
+t
+
+A contagem de indices começa a partir de 0, no exemplo, "P" é o indice 0, e o "y" o indice 1.
+------------------------------
+------------------------------
+É possível fazer fatiamento para buscar indices e exibir somente os mesmo.
+
+Exemplos:
+
+texto = 'Python love'
+
+nova_string = texto[2:6]
+
+Resultado:
+thon
+------------------------------
+------------------------------
+É possível fazer fatiamento para remover um indice do print.
+
+Exemplo:
+
+texto = 'Python love'
+
+print( texto[-1])
+
+Resultado:
+Python lov
+------------------------------
+------------------------------
