@@ -117,3 +117,28 @@ Resultado:
 Python lov
 ------------------------------
 ------------------------------
+while é um laço infinito que repete um trecho do cód até que esse trecho não seja mais verdadeiro.
+
+Ex:
+
+x = 0
+while x < 5:
+print(x)
+x = x + 1
+print('Acabou!')
+Resultado:
+
+1
+
+2
+
+3
+
+4
+
+Acabou!
+------------------------------
+------------------------------
+A função continue para a execução de um laço a partir deste ponto, e pula para o próximo.
+------------------------------
+------------------------------
