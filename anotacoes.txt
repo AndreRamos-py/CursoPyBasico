@@ -142,3 +142,7 @@ Acabou!
 A função continue para a execução de um laço a partir deste ponto, e pula para o próximo.
 ------------------------------
 ------------------------------
+Atalho: Ctrl + /
+Comenta tudo selecionado
+------------------------------
+------------------------------
