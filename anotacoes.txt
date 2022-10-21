@@ -150,3 +150,16 @@ Função range recebe um start (de onde deve começar a contagem) um stop (onde 
 step (de quantos em quantos deve pular)
 ------------------------------
 ------------------------------
+A função .extend() extende a lista em questão com os dados de outra lista colocada entre parenteses.
+
+A função .append insere um elemento NO FINAL da lista selecionada.
+
+A função .insert( , ) insere um elemento na lista  selecionada, sendo colocados entre os parenteses,
+primeiro a posição em que o elemento inserido deve ficar e em seguida o elemento que deseja inserir.
+
+A função .pop deleta O ÚLTIMO elemento da lista selecionada.
+
+A função del( [:]) deleta elemento(os) da lista selecionada, sendo colocados entre os parenteses,
+primeiro a lista e em seguida o fatiamento de onde até onde deve ser deletado(os) o(s) elemento(s) da lista.
+------------------------------
+------------------------------

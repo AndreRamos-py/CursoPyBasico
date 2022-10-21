@@ -1,11 +1,15 @@
 
-#for n in range(10):
-#    print(n)
+for n in range(10):
+    print(n)
 
 #Outro exemplo#
 
-#for n in range(5, 15, 2):
-#    print(n)
+for n in range(5, 15, 2):
+    print(n)
+
+print('#'*20)
+
+
 
 texto = 'Python'
 nova_str = ''
