@@ -146,3 +146,7 @@ Atalho: Ctrl + /
 Comenta tudo selecionado
 ------------------------------
 ------------------------------
+Função range recebe um start (de onde deve começar a contagem) um stop (onde deve parar) e um
+step (de quantos em quantos deve pular)
+------------------------------
+------------------------------
